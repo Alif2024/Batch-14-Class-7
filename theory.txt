@@ -1,0 +1,17 @@
+
+==== HTML Elements (Type)=======
+
+1. InLine Elements - his space needed
+2. Block Level Elements- whole sapce needed
+
+table tag e only tr and td tag use hobe
+
+some tags=
+
+del => delete
+
+div => division
+section
+<script> </script>
+<style> </style>
+
